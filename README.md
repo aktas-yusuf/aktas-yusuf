@@ -62,27 +62,6 @@ Cloud, DevOps & Development
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=aktas-yusuf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00E7FF&icon_color=FF2D95&title_color=7B61FF" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktas-yusuf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E7FF" alt="Most used languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=aktas-yusuf&theme=radical&hide_border=true&background=0D1117&ring=00E7FF&fire=FF2D95&currStreakLabel=7B61FF" alt="GitHub contribution streak" />
-
-</div>
-
-<h2 align="center">🐍 My Contributions Come Alive</h2>
-
-<div align="center">
-
-
-
-<sub>The snake animation is refreshed automatically by GitHub Actions.</sub>
-
-</div>
-
-<div align="center">
-
 💫 Learn • Build • Break • Fix • Improve • Repeat
 
 
