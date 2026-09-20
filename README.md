@@ -58,7 +58,6 @@ Cloud, DevOps & Development
 
 </div>
 
-<h2 align="center">📊 Live GitHub Dashboard</h2>
 
 <div align="center">
 
